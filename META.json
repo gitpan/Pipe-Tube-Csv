@@ -34,7 +34,7 @@
          "requires" : {
             "Pipe" : "0.03",
             "Test::More" : "0.47",
-            "Text::CSV_XS" : "0.23"
+            "Text::CSV" : "1.21"
          }
       }
    },
@@ -44,5 +44,5 @@
          "url" : "https://github.com/szabgab/Pipe-Tube-Csv"
       }
    },
-   "version" : "0.02"
+   "version" : "0.03"
 }
