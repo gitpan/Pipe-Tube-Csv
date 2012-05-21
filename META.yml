@@ -23,4 +23,4 @@ requires:
   Text::CSV: 1.21
 resources:
   repository: https://github.com/szabgab/Pipe-Tube-Csv
-version: 0.03
+version: 0.04
